@@ -1,2 +1,2 @@
 # TravelManagement
-Agency Management with Python ,Tkinter ,SQLITE
+Agency Management with Python ,Tkinter and SQLITE
